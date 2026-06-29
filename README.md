@@ -69,4 +69,4 @@
 
 💻 GitHub: https://github.com/aryansrivastava26
 
-📧 Email: *(Add your email if you're comfortable sharing it)*
+📧 Email: aryansrivastava0123@gmail.com and aryan_srivastava@srmap.edu.in
