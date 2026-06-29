@@ -65,7 +65,7 @@
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: *(Add your LinkedIn URL)*
+🔗 LinkedIn: https://www.linkedin.com/in/aryan-srivastava-100670306 
 
 💻 GitHub: https://github.com/aryansrivastava26
 
