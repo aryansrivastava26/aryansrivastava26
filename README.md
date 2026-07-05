@@ -1,60 +1,60 @@
-# Hi 👋, I'm Aryan Srivastava
+# Hi, I'm Aryan Srivastava
 
-## 🚀 About Me
+## About Me
 
-🎓 B.Tech CSE Student passionate about building real-world software and continuously learning new technologies.
+B.Tech CSE Student passionate about building real-world software and continuously learning new technologies.
 
-💻 Currently focusing on Python, Data Structures & Algorithms, and Full-Stack Development.
+Currently focusing on Python, Data Structures & Algorithms, and Full-Stack Development.
 
-🌱 Learning every day through hands-on projects and open-source practices.
+Learning every day through hands-on projects and open-source practices.
 
-🎯 Goal: Secure a Software Development Internship and become a skilled Software Engineer.
+Goal: Secure a Software Development Internship and become a skilled Software Engineer.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 - Python
 - C
 - Java (Basics)
 
-### 🌐 Web Development
+### Web Development
 - HTML5
 - CSS3
 - JavaScript (Basics)
 
-### 📚 Computer Science
+### Computer Science
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - Problem Solving
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 - Git
 - GitHub
 - VS Code
 - REST APIs
 - OpenWeather API
 
-### 💻 Operating Systems
+### Operating Systems
 - macOS
 - Windows
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-🌦️ Weather App (Python + OpenWeather API)
+Weather App (Python + OpenWeather API)
 
-💰 Expense Tracker *(Coming Soon)*
+Expense Tracker *(Coming Soon)*
 
-🌐 Personal Portfolio Website *(Coming Soon)*
+Personal Portfolio Website *(Coming Soon)*
 
-🤖 AI Chatbot *(Coming Soon)*
+AI Chatbot *(Coming Soon)*
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Advanced Python
 - Data Structures & Algorithms
@@ -63,10 +63,12 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/aryan-srivastava-100670306 
+LinkedIn: https://www.linkedin.com/in/aryan-srivastava-100670306 
 
-💻 GitHub: https://github.com/aryansrivastava26
+GitHub: https://github.com/aryansrivastava26
 
-📧 Email: aryansrivastava0123@gmail.com and aryan_srivastava@srmap.edu.in
+Email: aryansrivastava0123@gmail.com and aryan_srivastava@srmap.edu.in
+
+Instagram: https://www.instagram.com/_yes_im__/
