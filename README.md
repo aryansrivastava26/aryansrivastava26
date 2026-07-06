@@ -1,14 +1,10 @@
-# Hi, I'm Aryan Srivastava
+# Hi, I'm Aryan Srivastava 👋
 
 ## About Me
 
-B.Tech CSE Student passionate about building real-world software and continuously learning new technologies.
+I am a B.Tech Computer Science Engineering student passionate about software development and continuously improving my programming skills. I enjoy building practical projects that strengthen my understanding of Python, APIs, desktop applications, and problem-solving.
 
-Currently focusing on Python, Data Structures & Algorithms, and Full-Stack Development.
-
-Learning every day through hands-on projects and open-source practices.
-
-Goal: Secure a Software Development Internship and become a skilled Software Engineer.
+I believe in learning by building, and this GitHub profile documents my journey as I continue to develop new projects and explore modern technologies.
 
 ---
 
@@ -16,59 +12,68 @@ Goal: Secure a Software Development Internship and become a skilled Software Eng
 
 ### Programming Languages
 - Python
-- C
-- Java (Basics)
-
-### Web Development
-- HTML5
-- CSS3
-- JavaScript (Basics)
-
-### Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Problem Solving
+- C (Learning)
 
 ### Tools & Technologies
 - Git
 - GitHub
-- VS Code
 - REST APIs
-- OpenWeather API
+- Tkinter
+- File Handling
+- CSV
+- JSON
 
-### Operating Systems
-- macOS
-- Windows
-
----
-
-## Featured Projects
-
-Weather App (Python + OpenWeather API)
-
-Expense Tracker *(Coming Soon)*
-
-Personal Portfolio Website *(Coming Soon)*
-
-AI Chatbot *(Coming Soon)*
-
----
-
-## Currently Learning
-
-- Advanced Python
+### Currently Learning
 - Data Structures & Algorithms
-- Git & GitHub
-- Full-Stack Web Development
+- Object-Oriented Programming
+- Flask
+- SQL
+- React
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌦 Weather App | Real-time weather application using the OpenWeather API |
+| 💱 Currency Converter | Currency converter using ExchangeRate API |
+| 💰 Expense Tracker | CLI application for managing daily expenses |
+| 🔐 Password Generator | Secure password generator with customizable options |
+| 📝 To-Do List GUI | Desktop task management application using Tkinter |
+
+---
+
+## GitHub Statistics
+
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryansrivastava26&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansrivastava26&layout=compact&theme=tokyonight)
+
+---
+
+## Current Goals
+
+- Complete Data Structures & Algorithms
+- Build 20+ Python Projects
+- Learn Flask and Full Stack Development
+- Contribute to Open Source
+- Secure a Software Development Internship
 
 ---
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/aryan-srivastava-100670306 
+- GitHub: https://github.com/aryansrivastava26
+- LinkedIn: https://www.linkedin.com/in/aryan-srivastava-100670306
+- Instagram: https://www.instagram.com/_yes_im__/
+- Email: aryansrivastava0123@gmail.com / aryan_srivastava@srmap.edu.in
 
-GitHub: https://github.com/aryansrivastava26
 
-Email: aryansrivastava0123@gmail.com and aryan_srivastava@srmap.edu.in
+---
 
-Instagram: https://www.instagram.com/_yes_im__/
+## Quote
+
+> "The best way to learn programming is by building projects consistently."
+
+
