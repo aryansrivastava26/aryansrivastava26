@@ -46,7 +46,7 @@ I believe in learning by building, and this GitHub profile documents my journey 
 
 ## GitHub Statistics
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryansrivastava26&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryansrivastava26&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansrivastava26&layout=compact&theme=tokyonight)
 
