@@ -36,11 +36,11 @@ I believe in learning by building, and this GitHub profile documents my journey 
 
 | Project | Description |
 |---------|-------------|
-| 🌦 Weather App | Real-time weather application using the OpenWeather API |
-| 💱 Currency Converter | Currency converter using ExchangeRate API |
-| 💰 Expense Tracker | CLI application for managing daily expenses |
-| 🔐 Password Generator | Secure password generator with customizable options |
-| 📝 To-Do List GUI | Desktop task management application using Tkinter |
+| Weather App | Real-time weather application using the OpenWeather API |
+| Currency Converter | Currency converter using ExchangeRate API |
+| Expense Tracker | CLI application for managing daily expenses |
+| Password Generator | Secure password generator with customizable options |
+| To-Do List GUI | Desktop task management application using Tkinter |
 
 ---
 
