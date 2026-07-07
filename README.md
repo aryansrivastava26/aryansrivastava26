@@ -1,4 +1,4 @@
-# Hi, I'm Aryan Srivastava 👋
+# Hi, I'm Aryan Srivastava 
 
 ## About Me
 
